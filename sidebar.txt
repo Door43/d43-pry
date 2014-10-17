@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pry:home|Door43 (pry)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pry|d43-pry repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pry/archive/master.zip|d43-pry.zip]]
+
+**Recent Changes**
+{{changes>ns = pry}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pry|Ethnologue data]]
+
